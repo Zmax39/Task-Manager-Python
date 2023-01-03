@@ -1,0 +1,9 @@
+ 
+The total number of users registered is 2!
+
+The total number of tasks in the task manager is 2.
+The total number of tasks assigned to admin is 2.
+The percentage of the total number of tasks assigned to admin is 100.0%.
+The percentage of tasks assigned to admin that have been completed is 0.0%.
+The percentage of tasks that still need to be completed by admin is 0.0%.
+The percentage of incomplete and overdue tasks assigned to admin is 0.0%.

@@ -1,0 +1,8 @@
+ 
+The total number of tasks in this task manager is 2!
+
+The total number of completed tasks is 0. 
+ The total number of incomplete tasks is 2.
+The total number of incomplete and overdue tasks is 2.
+The percentage of incomplete tasks is 100.0%.
+The percentage of tasks that are overdue is 100.0%.
