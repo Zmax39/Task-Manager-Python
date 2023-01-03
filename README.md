@@ -28,6 +28,6 @@ When the program is initialised, the user is asked to enter their login details.
 HOW TO USE 
   </h2>
   
-  To use this program, just port this repository to your local machine so you have all    of the text files and Python file.
+  To use this program, just fork this repository to your local machine so you have all of the text files and Python file.
 
 <p>If you just have the Python file, make sure you create a user.txt file in the same directory so that the program can check and save login details.</p>
