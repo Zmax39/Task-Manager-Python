@@ -15,7 +15,7 @@ When the program is initialised, the user is asked to enter their login details.
   Functions will run depending on what menu choice the user picks.
   
   The menu options are as follows:
-  - Register a new user (Allows you to create a username and password and store it in the text file.
+  - Register a new user (Allows you to create a username and password and store it in the text file).
   - Assign tasks to users.
   - View all tasks for all users.
   - View your tasks and mark it as complete or edit the date if it is incomplete
